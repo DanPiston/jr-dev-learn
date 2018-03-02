@@ -4,7 +4,7 @@
 
 ## SCSS
 
-- [ ] What is SASS/SCSS?
+- [x] What is SASS/SCSS?
 * How do you nest selectors?
 * What is `&` used for when nesting selectors?
 * What are and how to use variables?
